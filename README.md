@@ -23,7 +23,8 @@ En mi caso es Windows.
 
 Una vez ya descargado Git se procede hacer las configuraciones que la misma aplicacion te pide para la instalacion, en general es muy sencilla.
 
-Luego se procede a la pagina de github  (https://github.com/), para crear tu perfil y asi tener ya un usuario para que a la hora de hacer proyectos en git podamos subirlos y se vean reflejados en Github.
+Luego se procede a la pagina de github  (https://github.com/), para crear tu perfil y asi tener ya un usuario para que a la hora de hacer proyectos en git podamos subirlos y se vean reflejados en Github.pueden alojar sus proyectos de software en repositorios públicos o privados. Los repositorios contienen los archivos de código fuente y la historia de los cambios realizados en el proyecto a lo largo del tiempo
+
 
 Con GitHub puedes publicar tus proyectos y crear un portafolio u hoja de vida que demostrará lo que sabes. Fundamental a la hora de hacer cualquier entrevista si quieres dedicarte al desarrollo del software.
 
@@ -58,7 +59,7 @@ En resumen, git add . es un comando útil cuando deseas incluir todos los cambio
 ✅ GIT COMMIT --> Es un comando de Git que toma los cambios realizados en la zona de preparación (staging area) y los guarda permanentemente en el repositorio Git como un nuevo commit.
 Cuando ejecutas el comando git commit, se abre un editor de texto donde puedes escribir un mensaje para describir los cambios realizados en el commit. Este mensaje es una breve descripción del conjunto de cambios realizados y se utiliza para documentar la razón del commit, los cambios realizados y cualquier información relevante sobre el mismo.
 
-                                                                       ⬇
+⬇
 
 GTI COMMIT -M Es una forma abreviada de usar el comando git commit para crear un nuevo commit con un mensaje de confirmación (commit message) sin tener que abrir un editor de texto. La opción -m (abreviatura de "message") le permite especificar el mensaje del commit directamente en la línea de comandos.
 
