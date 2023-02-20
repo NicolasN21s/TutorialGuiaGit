@@ -69,7 +69,7 @@ GTI COMMIT -M Es una forma abreviada de usar el comando git commit para crear un
 Donde vemos ´mensaje de confirmacion´, es donde brevemente es el mensaje que describe los cambios realizados en el commit. Es importante que el mensaje sea claro, preciso y descriptivo, ya que puede ser utilizado por otros desarrolladores para entender los cambios realizados en el proyecto.
 
 
-✅ GIT PUESH -U ORIGIN MAIN --> es un comando de Git que envía los cambios realizados en tu repositorio local al repositorio remoto en GitHub (u otro servidor Git). La opción -u (abreviatura de "upstream") establece una relación de seguimiento entre la rama local y la rama remota, lo que significa que en futuros push o pull, Git sabe a qué rama remota debe enviar o recibir cambios.
+✅ GIT PUSH -U ORIGIN MAIN --> es un comando de Git que envía los cambios realizados en tu repositorio local al repositorio remoto en GitHub (u otro servidor Git). La opción -u (abreviatura de "upstream") establece una relación de seguimiento entre la rama local y la rama remota, lo que significa que en futuros push o pull, Git sabe a qué rama remota debe enviar o recibir cambios.
 
 ![image](https://user-images.githubusercontent.com/125577159/220134872-c0a91732-558e-4ef1-8c63-3876a8b5c722.png)
 
